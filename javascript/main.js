@@ -1,4 +1,4 @@
-let coins = document.getElementById('Coins').Value;
+let coins = document.getElementById('Coins').value;
 const text = document.getElementById('Coins_show');
 const button_click = document.getElementById('button_click');
 
