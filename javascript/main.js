@@ -10,5 +10,5 @@ text_click();
 button_click.addEventListener('click', function() {
   coins += 1;
   text_click();
-  document.title = "";
+  document.title = ``;
 });
